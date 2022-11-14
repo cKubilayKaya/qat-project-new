@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Black Mango';
+    src: url('subset-BlackMango-Medium.eot');
+    src: url('subset-BlackMango-Medium.eot?#iefix') format('embedded-opentype'),
+        url('subset-BlackMango-Medium.woff2') format('woff2'),
+        url('subset-BlackMango-Medium.woff') format('woff'),
+        url('subset-BlackMango-Medium.ttf') format('truetype'),
+        url('subset-BlackMango-Medium.svg#BlackMango-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Black Mango';
+    src: url('subset-BlackMango-Regular.eot');
+    src: url('subset-BlackMango-Regular.eot?#iefix') format('embedded-opentype'),
+        url('subset-BlackMango-Regular.woff2') format('woff2'),
+        url('subset-BlackMango-Regular.woff') format('woff'),
+        url('subset-BlackMango-Regular.ttf') format('truetype'),
+        url('subset-BlackMango-Regular.svg#BlackMango-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Black Mango';
+    src: url('subset-BlackMango-Light.eot');
+    src: url('subset-BlackMango-Light.eot?#iefix') format('embedded-opentype'),
+        url('subset-BlackMango-Light.woff2') format('woff2'),
+        url('subset-BlackMango-Light.woff') format('woff'),
+        url('subset-BlackMango-Light.ttf') format('truetype'),
+        url('subset-BlackMango-Light.svg#BlackMango-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Black Mango';
+    src: url('subset-BlackMango-SemiBold.eot');
+    src: url('subset-BlackMango-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('subset-BlackMango-SemiBold.woff2') format('woff2'),
+        url('subset-BlackMango-SemiBold.woff') format('woff'),
+        url('subset-BlackMango-SemiBold.ttf') format('truetype'),
+        url('subset-BlackMango-SemiBold.svg#BlackMango-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+

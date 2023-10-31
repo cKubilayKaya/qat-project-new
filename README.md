@@ -1,3 +1,3 @@
 # QAT Project
 
-[Open Domain](https://qat-main-web.coza.digital).
+[Open Domain](https://qat-project-new.vercel.app/).
